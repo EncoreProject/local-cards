@@ -8,7 +8,7 @@ import Header from 'web/components/Header'
 const App: React.FC = () => {
   return (
     <div className="App">
-      <Header/>      
+        <Header />
     </div>
   );
 }
